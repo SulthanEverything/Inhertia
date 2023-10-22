@@ -17,17 +17,17 @@
     <div class="row justify-content-center">
         <div class="col-3 mr-3 bg-danger text-dark border rounded">
             <h1>
-                makanan
+                MAKANAN
             </h1>
         </div>
         <div class="col-3 mr-3 bg-danger text-dark border rounded">
             <h1>
-                minuman
+                MINUMAN
             </h1>
         </div>
         <div class="col-3 mr-3 bg-danger text-dark border rounded">
             <h1>
-                pakaian
+                PAKAIAN
             </h1>
         </div>
         <div class="col-4 mt-5 text-dark bg-danger text-dark border rounded">
